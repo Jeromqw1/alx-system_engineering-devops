@@ -1,2 +1,2 @@
 #!/ban/bash
-chmod --reference-olleh hello
+chmod --reference=olleh hello
