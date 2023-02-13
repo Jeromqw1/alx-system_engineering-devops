@@ -1,5 +1,2 @@
 #!/bin/bash
-lines=($(cat iacta))
-line=${lines[2]}
-
-echo $line
+head -3 iacta | tail -1
